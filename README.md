@@ -1,26 +1,11 @@
 ReactJS Project from Coursera
 
-*****************************
+git commit -m "<comment_about_commit>"
 
+git log --oneline
 
-…or create a new repository on the command line
-echo "# reactjs" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/srinivasmn/reactjs.git
 git push -u origin master
 
-
-…or push an existing repository from the command line
-git remote add origin https://github.com/srinivasmn/reactjs.git
-git push -u origin master
-
-
-…or import code from another repository
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
-
-******************
 
 
 
